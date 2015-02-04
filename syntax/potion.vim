@@ -13,6 +13,18 @@ highlight link potionFunction Function
 
 syntax match potionComment "\v#.*$"
 
+syntax match potionOperator "\v\="
+syntax match potionOperator "\v\*"
+syntax match potionOperator "\v/"
+syntax match potionOperator "\v\+"
+syntax match potionOperator "\v-"
+syntax match potionOperator "\v\?"
+syntax match potionOperator "\v\*\="
+syntax match potionOperator "\v/\="
+syntax match potionOperator "\v\+\="
+syntax match potionOperator "\v-\="
+
 highlight link potionComment Comment
+highlight link potionOperator Operator
 
 let b:current_syntax = "potion"
