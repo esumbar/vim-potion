@@ -27,4 +27,11 @@ syntax match potionOperator "\v-\="
 highlight link potionComment Comment
 highlight link potionOperator Operator
 
+syntax match potionNumber "\v-?\d+"
+syntax match potionNumber "\v0x\x+"
+syntax match potionNumber "\v-?\d+.\d+"
+syntax match potionNumber "\v-?\d+(.\d+)?e(-|\+)\d+"
+
+highlight link potionNumber Number
+
 let b:current_syntax = "potion"
