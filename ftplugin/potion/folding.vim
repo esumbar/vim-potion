@@ -1,5 +1,5 @@
 setlocal foldmethod=expr
-setlocal foldexpr=<SID>GetPotionFold(v:lnum)
+setlocal foldexpr=GetPotionFold(v:lnum)
 
 function! s:NextNonBlankLine(lnum)
     let numlines = line('$')
@@ -25,8 +25,8 @@ function! s:GetPotionFold(lnum)
 	return '-1'
     endif
 
-    let this_indent = s:IndentLevel(a:lnum)
-    let next_indent = s:IndentLevel(s:NextNonBlankLine(a:lnum))
+    let this_indent = IndentLevel(a:lnum)
+    let next_indent = IndentLevel(NextNonBlankLine(a:lnum))
 
     if next_indent == this_indent
 	return this_indent
