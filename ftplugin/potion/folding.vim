@@ -1,5 +1,5 @@
 setlocal foldmethod=expr
-setlocal foldexpr=s:GetPotionFold(v:lnum)
+setlocal foldexpr=<SID>GetPotionFold(v:lnum)
 
 function! s:NextNonBlankLine(lnum)
     let numlines = line('$')
