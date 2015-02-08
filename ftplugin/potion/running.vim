@@ -21,5 +21,5 @@ function! PotionShowBytecode()
     call append(0, split(bytecode, '\v\n'))
 endfunction
 
-nnoremap <buffer> <localleader>r :call PotionCompileAndRunFile()<cr>
-nnoremap <buffer> <localleader>b :call PotionShowBytecode()<cr>
+nnoremap <buffer> <localleader>r :write<cr>:call PotionCompileAndRunFile()<cr>
+nnoremap <buffer> <localleader>b :write<cr>:call PotionShowBytecode()<cr>
