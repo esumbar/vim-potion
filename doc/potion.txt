@@ -1,0 +1,68 @@
+*potion.txt*	functionality for the potion programming language
+
+    ooooooooo.                 .    o8o                       ~
+    `888   `Y88.             .o8    `"'                       ~
+     888   .d88'  .ooooo.  .o888oo oooo   .ooooo.  ooo. .oo.  ~
+     888ooo88P'  d88' `88b   888   `888  d88' `88b `888P"Y88b ~
+     888         888   888   888    888  888   888  888   888 ~
+     888         888   888   888 .  888  888   888  888   888 ~
+    o888o        `Y8bod8P'   "888" o888o `Y8bod8P' o888o o888o~
+                                                           
+                                                           
+    Functionality for the Potion programming language.~
+    Includes syntax highlighting, code folding, and more!~
+
+=============================================================================
+CONTENTS                                                     *PotionContents*
+
+    1. Usage ........................ |PotionUsage|
+    2. Mappings ..................... |PotionMappings|
+    3. License ...................... |PotionLicense|
+    4. Bugs ......................... |PotionBugs|
+    5. Contributing ................. |PotionContributing|
+    6. Changelog .................... |PotionChangelog|
+    7. Credits ...................... |PotionCredits|
+
+=============================================================================
+Section 1: Usage                                                *PotionUsage*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 2: Mappings                                          *PotionMappings*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 3: License                                            *PotionLicense*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 4: Bugs                                                  *PotionBugs*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 1: Usage                                                *PotionUsage*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 1: Usage                                                *PotionUsage*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+=============================================================================
+Section 1: Usage                                                *PotionUsage*
+
+This plugin will automatically provide syntax highlighting for Potion files.
+Potion files have the file extension .pn.
+
+ vim: filetype=help
