@@ -1,5 +1,5 @@
 if exists("b:current_syntax")
-	finish
+    finish
 endif
 
 syntax keyword potionKeyword loop times to while
