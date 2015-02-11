@@ -1,4 +1,4 @@
-*potion.txt*	functionality for the potion programming language
+*potion.txt*    functionality for the potion programming language
 
     ooooooooo.                 .    o8o                       ~
     `888   `Y88.             .o8    `"'                       ~
@@ -24,7 +24,7 @@ CONTENTS                                                     *PotionContents*
     7. Credits ...................... |PotionCredits|
 
 =============================================================================
-Section 1: Usage                                                *PotionUsage*
+Section 1: Usage,                                               *PotionUsage*
 
 This plugin will automatically provide syntax highlighting for Potion files.
 Potion files have the file extension .pn.
@@ -48,21 +48,21 @@ This plugin will automatically provide syntax highlighting for Potion files.
 Potion files have the file extension .pn.
 
 =============================================================================
-Section 1: Usage                                                *PotionUsage*
+Section 5: Contributing                                  *PotionContributing*
 
 This plugin will automatically provide syntax highlighting for Potion files.
 Potion files have the file extension .pn.
 
 =============================================================================
-Section 1: Usage                                                *PotionUsage*
+Section 6: Changelog                                        *PotionChangelog*
 
 This plugin will automatically provide syntax highlighting for Potion files.
 Potion files have the file extension .pn.
 
 =============================================================================
-Section 1: Usage                                                *PotionUsage*
+Section 7: Credits                                            *PotionCredits*
 
 This plugin will automatically provide syntax highlighting for Potion files.
 Potion files have the file extension .pn.
 
- vim: filetype=help
+ vim:textwidth=78:filetype=help:norl
